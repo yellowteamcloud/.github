@@ -17,7 +17,7 @@
 
 ## What we do
 
-We build pragmatic, fast, and delightful cloud-first software. Short feedback loops, strong automation, and a bias toward shipping are our yellow brick road.
+>We empowers teams to ship faster, automate smarter, and secure every line of code 
 
 - **Cloud & DevOps:** Infrastructure as Code, CI/CD pipelines, and “secure by default” configurations power your cloud migration and ongoing operations. We architect and automate reliable, scalable environments on AWS, Azure, or GCP—complete with continuous security monitoring and incident response playbooks.
 - **Full-stack apps:** from Figma squiggles to production pixels  
