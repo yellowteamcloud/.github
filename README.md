@@ -1,10 +1,6 @@
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/54dbd884-1cbd-4461-8fcc-b929029bdaaf" />
-
-
-
 <p align="center">
   <a href="https://yellowteam.cloud" target="_blank" rel="noopener">
-    <img alt="Yellow Team banner" src="https://github.com/user-attachments/assets/54dbd884-1cbd-4461-8fcc-b929029bdaaf" width="800">
+    <img alt="Yellow Team banner" src="https://github.com/user-attachments/assets/15a8ba6d-c4d2-45bc-8ab2-9216c62a66f8" width="800">
   </a>
 </p>
 
